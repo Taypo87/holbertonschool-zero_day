@@ -1,0 +1,1 @@
+This directory contains answers for emacs intro project.
